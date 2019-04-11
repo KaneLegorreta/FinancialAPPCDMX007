@@ -454,7 +454,7 @@ Se utilizó el siguiente video para mostrar el flujo de la aplicación durante l
 
 ### Diagrama de flujo de la solución propuesta 
 
-![AHORROS](CapturasData/flowmap.PNG)
+![AHORROS](CapturasData/mapa.PNG)
 
 
 
